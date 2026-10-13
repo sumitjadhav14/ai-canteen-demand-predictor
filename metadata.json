@@ -1,0 +1,6 @@
+{
+  "name": "AI Canteen Demand Predictor",
+  "description": "Smart food demand prediction for college canteens using Machine Learning regression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

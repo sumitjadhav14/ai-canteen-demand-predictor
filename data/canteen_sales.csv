@@ -1,0 +1,901 @@
+Date,Day,Weather,Previous_Day_Sales,Is_Holiday,Is_Special_Event,Student_Attendance,Food_Item,Units_Sold
+2026-06-01,Monday,Cloudy,85,No,Yes,1064,Vada Pav,96
+2026-06-01,Monday,Cloudy,75,No,Yes,1064,Samosa,84
+2026-06-01,Monday,Cloudy,55,No,Yes,1064,Sandwich,68
+2026-06-01,Monday,Cloudy,45,No,Yes,1064,Misal Pav,54
+2026-06-01,Monday,Cloudy,50,No,Yes,1064,Poha,61
+2026-06-01,Monday,Cloudy,40,No,Yes,1064,Idli,44
+2026-06-01,Monday,Cloudy,130,No,Yes,1064,Tea,146
+2026-06-01,Monday,Cloudy,65,No,Yes,1064,Coffee,75
+2026-06-01,Monday,Cloudy,60,No,Yes,1064,Cold Drink,73
+2026-06-02,Tuesday,Rainy,96,No,No,807,Vada Pav,82
+2026-06-02,Tuesday,Rainy,84,No,No,807,Samosa,78
+2026-06-02,Tuesday,Rainy,68,No,No,807,Sandwich,50
+2026-06-02,Tuesday,Rainy,54,No,No,807,Misal Pav,42
+2026-06-02,Tuesday,Rainy,61,No,No,807,Poha,47
+2026-06-02,Tuesday,Rainy,44,No,No,807,Idli,33
+2026-06-02,Tuesday,Rainy,146,No,No,807,Tea,136
+2026-06-02,Tuesday,Rainy,75,No,No,807,Coffee,61
+2026-06-02,Tuesday,Rainy,73,No,No,807,Cold Drink,39
+2026-06-03,Wednesday,Sunny,82,No,Yes,1126,Vada Pav,103
+2026-06-03,Wednesday,Sunny,78,No,Yes,1126,Samosa,96
+2026-06-03,Wednesday,Sunny,50,No,Yes,1126,Sandwich,67
+2026-06-03,Wednesday,Sunny,42,No,Yes,1126,Misal Pav,53
+2026-06-03,Wednesday,Sunny,47,No,Yes,1126,Poha,64
+2026-06-03,Wednesday,Sunny,33,No,Yes,1126,Idli,45
+2026-06-03,Wednesday,Sunny,136,No,Yes,1126,Tea,160
+2026-06-03,Wednesday,Sunny,61,No,Yes,1126,Coffee,81
+2026-06-03,Wednesday,Sunny,39,No,Yes,1126,Cold Drink,66
+2026-06-04,Thursday,Rainy,103,No,No,711,Vada Pav,84
+2026-06-04,Thursday,Rainy,96,No,No,711,Samosa,79
+2026-06-04,Thursday,Rainy,67,No,No,711,Sandwich,48
+2026-06-04,Thursday,Rainy,53,No,No,711,Misal Pav,44
+2026-06-04,Thursday,Rainy,64,No,No,711,Poha,46
+2026-06-04,Thursday,Rainy,45,No,No,711,Idli,30
+2026-06-04,Thursday,Rainy,160,No,No,711,Tea,133
+2026-06-04,Thursday,Rainy,81,No,No,711,Coffee,65
+2026-06-04,Thursday,Rainy,66,No,No,711,Cold Drink,31
+2026-06-05,Friday,Rainy,84,No,No,974,Vada Pav,94
+2026-06-05,Friday,Rainy,79,No,No,974,Samosa,87
+2026-06-05,Friday,Rainy,48,No,No,974,Sandwich,43
+2026-06-05,Friday,Rainy,44,No,No,974,Misal Pav,49
+2026-06-05,Friday,Rainy,46,No,No,974,Poha,42
+2026-06-05,Friday,Rainy,30,No,No,974,Idli,30
+2026-06-05,Friday,Rainy,133,No,No,974,Tea,165
+2026-06-05,Friday,Rainy,65,No,No,974,Coffee,71
+2026-06-05,Friday,Rainy,31,No,No,974,Cold Drink,24
+2026-06-06,Saturday,Rainy,94,Yes,No,318,Vada Pav,37
+2026-06-06,Saturday,Rainy,87,Yes,No,318,Samosa,39
+2026-06-06,Saturday,Rainy,43,Yes,No,318,Sandwich,19
+2026-06-06,Saturday,Rainy,49,Yes,No,318,Misal Pav,20
+2026-06-06,Saturday,Rainy,42,Yes,No,318,Poha,17
+2026-06-06,Saturday,Rainy,30,Yes,No,318,Idli,14
+2026-06-06,Saturday,Rainy,165,Yes,No,318,Tea,71
+2026-06-06,Saturday,Rainy,71,Yes,No,318,Coffee,31
+2026-06-06,Saturday,Rainy,24,Yes,No,318,Cold Drink,9
+2026-06-07,Sunday,Rainy,37,Yes,No,284,Vada Pav,19
+2026-06-07,Sunday,Rainy,39,Yes,No,284,Samosa,19
+2026-06-07,Sunday,Rainy,19,Yes,No,284,Sandwich,9
+2026-06-07,Sunday,Rainy,20,Yes,No,284,Misal Pav,10
+2026-06-07,Sunday,Rainy,17,Yes,No,284,Poha,9
+2026-06-07,Sunday,Rainy,14,Yes,No,284,Idli,7
+2026-06-07,Sunday,Rainy,71,Yes,No,284,Tea,38
+2026-06-07,Sunday,Rainy,31,Yes,No,284,Coffee,15
+2026-06-07,Sunday,Rainy,9,Yes,No,284,Cold Drink,5
+2026-06-08,Monday,Sunny,19,No,No,812,Vada Pav,48
+2026-06-08,Monday,Sunny,19,No,No,812,Samosa,39
+2026-06-08,Monday,Sunny,9,No,No,812,Sandwich,27
+2026-06-08,Monday,Sunny,10,No,No,812,Misal Pav,25
+2026-06-08,Monday,Sunny,9,No,No,812,Poha,26
+2026-06-08,Monday,Sunny,7,No,No,812,Idli,20
+2026-06-08,Monday,Sunny,38,No,No,812,Tea,74
+2026-06-08,Monday,Sunny,15,No,No,812,Coffee,35
+2026-06-08,Monday,Sunny,5,No,No,812,Cold Drink,28
+2026-06-09,Tuesday,Rainy,48,No,No,729,Vada Pav,66
+2026-06-09,Tuesday,Rainy,39,No,No,729,Samosa,57
+2026-06-09,Tuesday,Rainy,27,No,No,729,Sandwich,30
+2026-06-09,Tuesday,Rainy,25,No,No,729,Misal Pav,33
+2026-06-09,Tuesday,Rainy,26,No,No,729,Poha,29
+2026-06-09,Tuesday,Rainy,20,No,No,729,Idli,22
+2026-06-09,Tuesday,Rainy,74,No,No,729,Tea,105
+2026-06-09,Tuesday,Rainy,35,No,No,729,Coffee,50
+2026-06-09,Tuesday,Rainy,28,No,No,729,Cold Drink,21
+2026-06-10,Wednesday,Cloudy,66,No,No,933,Vada Pav,66
+2026-06-10,Wednesday,Cloudy,57,No,No,933,Samosa,63
+2026-06-10,Wednesday,Cloudy,30,No,No,933,Sandwich,43
+2026-06-10,Wednesday,Cloudy,33,No,No,933,Misal Pav,36
+2026-06-10,Wednesday,Cloudy,29,No,No,933,Poha,36
+2026-06-10,Wednesday,Cloudy,22,No,No,933,Idli,29
+2026-06-10,Wednesday,Cloudy,105,No,No,933,Tea,103
+2026-06-10,Wednesday,Cloudy,50,No,No,933,Coffee,57
+2026-06-10,Wednesday,Cloudy,21,No,No,933,Cold Drink,43
+2026-06-11,Thursday,Rainy,66,No,No,728,Vada Pav,75
+2026-06-11,Thursday,Rainy,63,No,No,728,Samosa,69
+2026-06-11,Thursday,Rainy,43,No,No,728,Sandwich,38
+2026-06-11,Thursday,Rainy,36,No,No,728,Misal Pav,35
+2026-06-11,Thursday,Rainy,36,No,No,728,Poha,32
+2026-06-11,Thursday,Rainy,29,No,No,728,Idli,26
+2026-06-11,Thursday,Rainy,103,No,No,728,Tea,124
+2026-06-11,Thursday,Rainy,57,No,No,728,Coffee,51
+2026-06-11,Thursday,Rainy,43,No,No,728,Cold Drink,25
+2026-06-12,Friday,Rainy,75,No,No,832,Vada Pav,82
+2026-06-12,Friday,Rainy,69,No,No,832,Samosa,79
+2026-06-12,Friday,Rainy,38,No,No,832,Sandwich,36
+2026-06-12,Friday,Rainy,35,No,No,832,Misal Pav,40
+2026-06-12,Friday,Rainy,32,No,No,832,Poha,36
+2026-06-12,Friday,Rainy,26,No,No,832,Idli,28
+2026-06-12,Friday,Rainy,124,No,No,832,Tea,144
+2026-06-12,Friday,Rainy,51,No,No,832,Coffee,60
+2026-06-12,Friday,Rainy,25,No,No,832,Cold Drink,21
+2026-06-13,Saturday,Cloudy,82,Yes,No,291,Vada Pav,35
+2026-06-13,Saturday,Cloudy,79,Yes,No,291,Samosa,32
+2026-06-13,Saturday,Cloudy,36,Yes,No,291,Sandwich,16
+2026-06-13,Saturday,Cloudy,40,Yes,No,291,Misal Pav,16
+2026-06-13,Saturday,Cloudy,36,Yes,No,291,Poha,15
+2026-06-13,Saturday,Cloudy,28,Yes,No,291,Idli,12
+2026-06-13,Saturday,Cloudy,144,Yes,No,291,Tea,59
+2026-06-13,Saturday,Cloudy,60,Yes,No,291,Coffee,24
+2026-06-13,Saturday,Cloudy,21,Yes,No,291,Cold Drink,10
+2026-06-14,Sunday,Rainy,35,Yes,No,178,Vada Pav,15
+2026-06-14,Sunday,Rainy,32,Yes,No,178,Samosa,14
+2026-06-14,Sunday,Rainy,16,Yes,No,178,Sandwich,7
+2026-06-14,Sunday,Rainy,16,Yes,No,178,Misal Pav,8
+2026-06-14,Sunday,Rainy,15,Yes,No,178,Poha,7
+2026-06-14,Sunday,Rainy,12,Yes,No,178,Idli,5
+2026-06-14,Sunday,Rainy,59,Yes,No,178,Tea,28
+2026-06-14,Sunday,Rainy,24,Yes,No,178,Coffee,12
+2026-06-14,Sunday,Rainy,10,Yes,No,178,Cold Drink,5
+2026-06-15,Monday,Rainy,15,No,No,904,Vada Pav,60
+2026-06-15,Monday,Rainy,14,No,No,904,Samosa,55
+2026-06-15,Monday,Rainy,7,No,No,904,Sandwich,29
+2026-06-15,Monday,Rainy,8,No,No,904,Misal Pav,32
+2026-06-15,Monday,Rainy,7,No,No,904,Poha,29
+2026-06-15,Monday,Rainy,5,No,No,904,Idli,21
+2026-06-15,Monday,Rainy,28,No,No,904,Tea,112
+2026-06-15,Monday,Rainy,12,No,No,904,Coffee,51
+2026-06-15,Monday,Rainy,5,No,No,904,Cold Drink,13
+2026-06-16,Tuesday,Rainy,60,No,No,763,Vada Pav,67
+2026-06-16,Tuesday,Rainy,55,No,No,763,Samosa,65
+2026-06-16,Tuesday,Rainy,29,No,No,763,Sandwich,31
+2026-06-16,Tuesday,Rainy,32,No,No,763,Misal Pav,34
+2026-06-16,Tuesday,Rainy,29,No,No,763,Poha,32
+2026-06-16,Tuesday,Rainy,21,No,No,763,Idli,24
+2026-06-16,Tuesday,Rainy,112,No,No,763,Tea,115
+2026-06-16,Tuesday,Rainy,51,No,No,763,Coffee,57
+2026-06-16,Tuesday,Rainy,13,No,No,763,Cold Drink,16
+2026-06-17,Wednesday,Rainy,67,No,No,703,Vada Pav,74
+2026-06-17,Wednesday,Rainy,65,No,No,703,Samosa,69
+2026-06-17,Wednesday,Rainy,31,No,No,703,Sandwich,33
+2026-06-17,Wednesday,Rainy,34,No,No,703,Misal Pav,33
+2026-06-17,Wednesday,Rainy,32,No,No,703,Poha,32
+2026-06-17,Wednesday,Rainy,24,No,No,703,Idli,22
+2026-06-17,Wednesday,Rainy,115,No,No,703,Tea,116
+2026-06-17,Wednesday,Rainy,57,No,No,703,Coffee,50
+2026-06-17,Wednesday,Rainy,16,No,No,703,Cold Drink,15
+2026-06-18,Thursday,Rainy,74,No,No,816,Vada Pav,76
+2026-06-18,Thursday,Rainy,69,No,No,816,Samosa,75
+2026-06-18,Thursday,Rainy,33,No,No,816,Sandwich,37
+2026-06-18,Thursday,Rainy,33,No,No,816,Misal Pav,40
+2026-06-18,Thursday,Rainy,32,No,No,816,Poha,36
+2026-06-18,Thursday,Rainy,22,No,No,816,Idli,24
+2026-06-18,Thursday,Rainy,116,No,No,816,Tea,124
+2026-06-18,Thursday,Rainy,50,No,No,816,Coffee,54
+2026-06-18,Thursday,Rainy,15,No,No,816,Cold Drink,15
+2026-06-19,Friday,Cloudy,76,No,Yes,975,Vada Pav,94
+2026-06-19,Friday,Cloudy,75,No,Yes,975,Samosa,85
+2026-06-19,Friday,Cloudy,37,No,Yes,975,Sandwich,59
+2026-06-19,Friday,Cloudy,40,No,Yes,975,Misal Pav,46
+2026-06-19,Friday,Cloudy,36,No,Yes,975,Poha,55
+2026-06-19,Friday,Cloudy,24,No,Yes,975,Idli,37
+2026-06-19,Friday,Cloudy,124,No,Yes,975,Tea,137
+2026-06-19,Friday,Cloudy,54,No,Yes,975,Coffee,70
+2026-06-19,Friday,Cloudy,15,No,Yes,975,Cold Drink,53
+2026-06-20,Saturday,Sunny,94,Yes,No,347,Vada Pav,39
+2026-06-20,Saturday,Sunny,85,Yes,No,347,Samosa,35
+2026-06-20,Saturday,Sunny,59,Yes,No,347,Sandwich,23
+2026-06-20,Saturday,Sunny,46,Yes,No,347,Misal Pav,18
+2026-06-20,Saturday,Sunny,55,Yes,No,347,Poha,23
+2026-06-20,Saturday,Sunny,37,Yes,No,347,Idli,16
+2026-06-20,Saturday,Sunny,137,Yes,No,347,Tea,55
+2026-06-20,Saturday,Sunny,70,Yes,No,347,Coffee,28
+2026-06-20,Saturday,Sunny,53,Yes,No,347,Cold Drink,23
+2026-06-21,Sunday,Cloudy,39,Yes,No,153,Vada Pav,17
+2026-06-21,Sunday,Cloudy,35,Yes,No,153,Samosa,14
+2026-06-21,Sunday,Cloudy,23,Yes,No,153,Sandwich,10
+2026-06-21,Sunday,Cloudy,18,Yes,No,153,Misal Pav,8
+2026-06-21,Sunday,Cloudy,23,Yes,No,153,Poha,9
+2026-06-21,Sunday,Cloudy,16,Yes,No,153,Idli,7
+2026-06-21,Sunday,Cloudy,55,Yes,No,153,Tea,25
+2026-06-21,Sunday,Cloudy,28,Yes,No,153,Coffee,13
+2026-06-21,Sunday,Cloudy,23,Yes,No,153,Cold Drink,9
+2026-06-22,Monday,Hot,17,No,No,1025,Vada Pav,47
+2026-06-22,Monday,Hot,14,No,No,1025,Samosa,40
+2026-06-22,Monday,Hot,10,No,No,1025,Sandwich,37
+2026-06-22,Monday,Hot,8,No,No,1025,Misal Pav,23
+2026-06-22,Monday,Hot,9,No,No,1025,Poha,32
+2026-06-22,Monday,Hot,7,No,No,1025,Idli,26
+2026-06-22,Monday,Hot,25,No,No,1025,Tea,70
+2026-06-22,Monday,Hot,13,No,No,1025,Coffee,36
+2026-06-22,Monday,Hot,9,No,No,1025,Cold Drink,62
+2026-06-23,Tuesday,Hot,47,No,No,726,Vada Pav,51
+2026-06-23,Tuesday,Hot,40,No,No,726,Samosa,38
+2026-06-23,Tuesday,Hot,37,No,No,726,Sandwich,35
+2026-06-23,Tuesday,Hot,23,No,No,726,Misal Pav,21
+2026-06-23,Tuesday,Hot,32,No,No,726,Poha,32
+2026-06-23,Tuesday,Hot,26,No,No,726,Idli,25
+2026-06-23,Tuesday,Hot,70,No,No,726,Tea,65
+2026-06-23,Tuesday,Hot,36,No,No,726,Coffee,35
+2026-06-23,Tuesday,Hot,62,No,No,726,Cold Drink,60
+2026-06-24,Wednesday,Rainy,51,No,No,931,Vada Pav,83
+2026-06-24,Wednesday,Rainy,38,No,No,931,Samosa,63
+2026-06-24,Wednesday,Rainy,35,No,No,931,Sandwich,40
+2026-06-24,Wednesday,Rainy,21,No,No,931,Misal Pav,40
+2026-06-24,Wednesday,Rainy,32,No,No,931,Poha,36
+2026-06-24,Wednesday,Rainy,25,No,No,931,Idli,27
+2026-06-24,Wednesday,Rainy,65,No,No,931,Tea,117
+2026-06-24,Wednesday,Rainy,35,No,No,931,Coffee,61
+2026-06-24,Wednesday,Rainy,60,No,No,931,Cold Drink,32
+2026-06-25,Thursday,Rainy,83,No,No,728,Vada Pav,71
+2026-06-25,Thursday,Rainy,63,No,No,728,Samosa,69
+2026-06-25,Thursday,Rainy,40,No,No,728,Sandwich,38
+2026-06-25,Thursday,Rainy,40,No,No,728,Misal Pav,38
+2026-06-25,Thursday,Rainy,36,No,No,728,Poha,36
+2026-06-25,Thursday,Rainy,27,No,No,728,Idli,25
+2026-06-25,Thursday,Rainy,117,No,No,728,Tea,114
+2026-06-25,Thursday,Rainy,61,No,No,728,Coffee,53
+2026-06-25,Thursday,Rainy,32,No,No,728,Cold Drink,20
+2026-06-26,Friday,Rainy,71,No,No,1030,Vada Pav,89
+2026-06-26,Friday,Rainy,69,No,No,1030,Samosa,87
+2026-06-26,Friday,Rainy,38,No,No,1030,Sandwich,45
+2026-06-26,Friday,Rainy,38,No,No,1030,Misal Pav,46
+2026-06-26,Friday,Rainy,36,No,No,1030,Poha,43
+2026-06-26,Friday,Rainy,25,No,No,1030,Idli,31
+2026-06-26,Friday,Rainy,114,No,No,1030,Tea,164
+2026-06-26,Friday,Rainy,53,No,No,1030,Coffee,70
+2026-06-26,Friday,Rainy,20,No,No,1030,Cold Drink,22
+2026-06-27,Saturday,Cloudy,89,Yes,No,324,Vada Pav,39
+2026-06-27,Saturday,Cloudy,87,Yes,No,324,Samosa,38
+2026-06-27,Saturday,Cloudy,45,Yes,No,324,Sandwich,18
+2026-06-27,Saturday,Cloudy,46,Yes,No,324,Misal Pav,20
+2026-06-27,Saturday,Cloudy,43,Yes,No,324,Poha,18
+2026-06-27,Saturday,Cloudy,31,Yes,No,324,Idli,14
+2026-06-27,Saturday,Cloudy,164,Yes,No,324,Tea,69
+2026-06-27,Saturday,Cloudy,70,Yes,No,324,Coffee,31
+2026-06-27,Saturday,Cloudy,22,Yes,No,324,Cold Drink,12
+2026-06-28,Sunday,Rainy,39,Yes,No,147,Vada Pav,17
+2026-06-28,Sunday,Rainy,38,Yes,No,147,Samosa,15
+2026-06-28,Sunday,Rainy,18,Yes,No,147,Sandwich,8
+2026-06-28,Sunday,Rainy,20,Yes,No,147,Misal Pav,8
+2026-06-28,Sunday,Rainy,18,Yes,No,147,Poha,8
+2026-06-28,Sunday,Rainy,14,Yes,No,147,Idli,6
+2026-06-28,Sunday,Rainy,69,Yes,No,147,Tea,31
+2026-06-28,Sunday,Rainy,31,Yes,No,147,Coffee,14
+2026-06-28,Sunday,Rainy,12,Yes,No,147,Cold Drink,5
+2026-06-29,Monday,Cloudy,17,No,No,817,Vada Pav,50
+2026-06-29,Monday,Cloudy,15,No,No,817,Samosa,40
+2026-06-29,Monday,Cloudy,8,No,No,817,Sandwich,30
+2026-06-29,Monday,Cloudy,8,No,No,817,Misal Pav,24
+2026-06-29,Monday,Cloudy,8,No,No,817,Poha,29
+2026-06-29,Monday,Cloudy,6,No,No,817,Idli,22
+2026-06-29,Monday,Cloudy,31,No,No,817,Tea,79
+2026-06-29,Monday,Cloudy,14,No,No,817,Coffee,34
+2026-06-29,Monday,Cloudy,5,No,No,817,Cold Drink,33
+2026-06-30,Tuesday,Cloudy,50,No,No,727,Vada Pav,55
+2026-06-30,Tuesday,Cloudy,40,No,No,727,Samosa,45
+2026-06-30,Tuesday,Cloudy,30,No,No,727,Sandwich,36
+2026-06-30,Tuesday,Cloudy,24,No,No,727,Misal Pav,27
+2026-06-30,Tuesday,Cloudy,29,No,No,727,Poha,34
+2026-06-30,Tuesday,Cloudy,22,No,No,727,Idli,23
+2026-06-30,Tuesday,Cloudy,79,No,No,727,Tea,89
+2026-06-30,Tuesday,Cloudy,34,No,No,727,Coffee,38
+2026-06-30,Tuesday,Cloudy,33,No,No,727,Cold Drink,35
+2026-07-01,Wednesday,Rainy,55,No,No,875,Vada Pav,78
+2026-07-01,Wednesday,Rainy,45,No,No,875,Samosa,70
+2026-07-01,Wednesday,Rainy,36,No,No,875,Sandwich,39
+2026-07-01,Wednesday,Rainy,27,No,No,875,Misal Pav,37
+2026-07-01,Wednesday,Rainy,34,No,No,875,Poha,35
+2026-07-01,Wednesday,Rainy,23,No,No,875,Idli,26
+2026-07-01,Wednesday,Rainy,89,No,No,875,Tea,124
+2026-07-01,Wednesday,Rainy,38,No,No,875,Coffee,53
+2026-07-01,Wednesday,Rainy,35,No,No,875,Cold Drink,25
+2026-07-02,Thursday,Cloudy,78,No,No,804,Vada Pav,66
+2026-07-02,Thursday,Cloudy,70,No,No,804,Samosa,62
+2026-07-02,Thursday,Cloudy,39,No,No,804,Sandwich,40
+2026-07-02,Thursday,Cloudy,37,No,No,804,Misal Pav,33
+2026-07-02,Thursday,Cloudy,35,No,No,804,Poha,37
+2026-07-02,Thursday,Cloudy,26,No,No,804,Idli,28
+2026-07-02,Thursday,Cloudy,124,No,No,804,Tea,109
+2026-07-02,Thursday,Cloudy,53,No,No,804,Coffee,47
+2026-07-02,Thursday,Cloudy,25,No,No,804,Cold Drink,38
+2026-07-03,Friday,Cloudy,66,No,No,853,Vada Pav,65
+2026-07-03,Friday,Cloudy,62,No,No,853,Samosa,60
+2026-07-03,Friday,Cloudy,40,No,No,853,Sandwich,43
+2026-07-03,Friday,Cloudy,33,No,No,853,Misal Pav,34
+2026-07-03,Friday,Cloudy,37,No,No,853,Poha,38
+2026-07-03,Friday,Cloudy,28,No,No,853,Idli,29
+2026-07-03,Friday,Cloudy,109,No,No,853,Tea,103
+2026-07-03,Friday,Cloudy,47,No,No,853,Coffee,52
+2026-07-03,Friday,Cloudy,38,No,No,853,Cold Drink,46
+2026-07-04,Saturday,Sunny,65,Yes,No,251,Vada Pav,28
+2026-07-04,Saturday,Sunny,60,Yes,No,251,Samosa,25
+2026-07-04,Saturday,Sunny,43,Yes,No,251,Sandwich,17
+2026-07-04,Saturday,Sunny,34,Yes,No,251,Misal Pav,15
+2026-07-04,Saturday,Sunny,38,Yes,No,251,Poha,15
+2026-07-04,Saturday,Sunny,29,Yes,No,251,Idli,12
+2026-07-04,Saturday,Sunny,103,Yes,No,251,Tea,45
+2026-07-04,Saturday,Sunny,52,Yes,No,251,Coffee,20
+2026-07-04,Saturday,Sunny,46,Yes,No,251,Cold Drink,18
+2026-07-05,Sunday,Rainy,28,No,No,466,Vada Pav,39
+2026-07-05,Sunday,Rainy,25,No,No,466,Samosa,37
+2026-07-05,Sunday,Rainy,17,No,No,466,Sandwich,19
+2026-07-05,Sunday,Rainy,15,No,No,466,Misal Pav,21
+2026-07-05,Sunday,Rainy,15,No,No,466,Poha,19
+2026-07-05,Sunday,Rainy,12,No,No,466,Idli,13
+2026-07-05,Sunday,Rainy,45,No,No,466,Tea,69
+2026-07-05,Sunday,Rainy,20,No,No,466,Coffee,27
+2026-07-05,Sunday,Rainy,18,No,No,466,Cold Drink,13
+2026-07-06,Monday,Rainy,39,No,No,845,Vada Pav,72
+2026-07-06,Monday,Rainy,37,No,No,845,Samosa,65
+2026-07-06,Monday,Rainy,19,No,No,845,Sandwich,31
+2026-07-06,Monday,Rainy,21,No,No,845,Misal Pav,35
+2026-07-06,Monday,Rainy,19,No,No,845,Poha,34
+2026-07-06,Monday,Rainy,13,No,No,845,Idli,20
+2026-07-06,Monday,Rainy,69,No,No,845,Tea,110
+2026-07-06,Monday,Rainy,27,No,No,845,Coffee,49
+2026-07-06,Monday,Rainy,13,No,No,845,Cold Drink,16
+2026-07-07,Tuesday,Rainy,72,No,No,813,Vada Pav,79
+2026-07-07,Tuesday,Rainy,65,No,No,813,Samosa,73
+2026-07-07,Tuesday,Rainy,31,No,No,813,Sandwich,35
+2026-07-07,Tuesday,Rainy,35,No,No,813,Misal Pav,41
+2026-07-07,Tuesday,Rainy,34,No,No,813,Poha,36
+2026-07-07,Tuesday,Rainy,20,No,No,813,Idli,25
+2026-07-07,Tuesday,Rainy,110,No,No,813,Tea,133
+2026-07-07,Tuesday,Rainy,49,No,No,813,Coffee,56
+2026-07-07,Tuesday,Rainy,16,No,No,813,Cold Drink,16
+2026-07-08,Wednesday,Rainy,79,No,No,833,Vada Pav,81
+2026-07-08,Wednesday,Rainy,73,No,No,833,Samosa,72
+2026-07-08,Wednesday,Rainy,35,No,No,833,Sandwich,36
+2026-07-08,Wednesday,Rainy,41,No,No,833,Misal Pav,43
+2026-07-08,Wednesday,Rainy,36,No,No,833,Poha,36
+2026-07-08,Wednesday,Rainy,25,No,No,833,Idli,25
+2026-07-08,Wednesday,Rainy,133,No,No,833,Tea,147
+2026-07-08,Wednesday,Rainy,56,No,No,833,Coffee,55
+2026-07-08,Wednesday,Rainy,16,No,No,833,Cold Drink,16
+2026-07-09,Thursday,Cloudy,81,No,No,806,Vada Pav,68
+2026-07-09,Thursday,Cloudy,72,No,No,806,Samosa,61
+2026-07-09,Thursday,Cloudy,36,No,No,806,Sandwich,38
+2026-07-09,Thursday,Cloudy,43,No,No,806,Misal Pav,35
+2026-07-09,Thursday,Cloudy,36,No,No,806,Poha,36
+2026-07-09,Thursday,Cloudy,25,No,No,806,Idli,30
+2026-07-09,Thursday,Cloudy,147,No,No,806,Tea,115
+2026-07-09,Thursday,Cloudy,55,No,No,806,Coffee,52
+2026-07-09,Thursday,Cloudy,16,No,No,806,Cold Drink,36
+2026-07-10,Friday,Sunny,68,No,No,890,Vada Pav,64
+2026-07-10,Friday,Sunny,61,No,No,890,Samosa,58
+2026-07-10,Friday,Sunny,38,No,No,890,Sandwich,43
+2026-07-10,Friday,Sunny,35,No,No,890,Misal Pav,37
+2026-07-10,Friday,Sunny,36,No,No,890,Poha,38
+2026-07-10,Friday,Sunny,30,No,No,890,Idli,32
+2026-07-10,Friday,Sunny,115,No,No,890,Tea,110
+2026-07-10,Friday,Sunny,52,No,No,890,Coffee,54
+2026-07-10,Friday,Sunny,36,No,No,890,Cold Drink,43
+2026-07-11,Saturday,Rainy,64,Yes,No,219,Vada Pav,27
+2026-07-11,Saturday,Rainy,58,Yes,No,219,Samosa,26
+2026-07-11,Saturday,Rainy,43,Yes,No,219,Sandwich,17
+2026-07-11,Saturday,Rainy,37,Yes,No,219,Misal Pav,15
+2026-07-11,Saturday,Rainy,38,Yes,No,219,Poha,15
+2026-07-11,Saturday,Rainy,32,Yes,No,219,Idli,12
+2026-07-11,Saturday,Rainy,110,Yes,No,219,Tea,48
+2026-07-11,Saturday,Rainy,54,Yes,No,219,Coffee,21
+2026-07-11,Saturday,Rainy,43,Yes,No,219,Cold Drink,16
+2026-07-12,Sunday,Sunny,27,Yes,No,284,Vada Pav,14
+2026-07-12,Sunday,Sunny,26,Yes,No,284,Samosa,14
+2026-07-12,Sunday,Sunny,17,Yes,No,284,Sandwich,9
+2026-07-12,Sunday,Sunny,15,Yes,No,284,Misal Pav,7
+2026-07-12,Sunday,Sunny,15,Yes,No,284,Poha,8
+2026-07-12,Sunday,Sunny,12,Yes,No,284,Idli,6
+2026-07-12,Sunday,Sunny,48,Yes,No,284,Tea,23
+2026-07-12,Sunday,Sunny,21,Yes,No,284,Coffee,12
+2026-07-12,Sunday,Sunny,16,Yes,No,284,Cold Drink,9
+2026-07-13,Monday,Rainy,14,No,No,920,Vada Pav,59
+2026-07-13,Monday,Rainy,14,No,No,920,Samosa,60
+2026-07-13,Monday,Rainy,9,No,No,920,Sandwich,33
+2026-07-13,Monday,Rainy,7,No,No,920,Misal Pav,32
+2026-07-13,Monday,Rainy,8,No,No,920,Poha,31
+2026-07-13,Monday,Rainy,6,No,No,920,Idli,22
+2026-07-13,Monday,Rainy,23,No,No,920,Tea,112
+2026-07-13,Monday,Rainy,12,No,No,920,Coffee,50
+2026-07-13,Monday,Rainy,9,No,No,920,Cold Drink,17
+2026-07-14,Tuesday,Cloudy,59,No,Yes,1014,Vada Pav,89
+2026-07-14,Tuesday,Cloudy,60,No,Yes,1014,Samosa,77
+2026-07-14,Tuesday,Cloudy,33,No,Yes,1014,Sandwich,60
+2026-07-14,Tuesday,Cloudy,32,No,Yes,1014,Misal Pav,47
+2026-07-14,Tuesday,Cloudy,31,No,Yes,1014,Poha,49
+2026-07-14,Tuesday,Cloudy,22,No,Yes,1014,Idli,39
+2026-07-14,Tuesday,Cloudy,112,No,Yes,1014,Tea,147
+2026-07-14,Tuesday,Cloudy,50,No,Yes,1014,Coffee,75
+2026-07-14,Tuesday,Cloudy,17,No,Yes,1014,Cold Drink,56
+2026-07-15,Wednesday,Cloudy,89,No,No,848,Vada Pav,68
+2026-07-15,Wednesday,Cloudy,77,No,No,848,Samosa,63
+2026-07-15,Wednesday,Cloudy,60,No,No,848,Sandwich,50
+2026-07-15,Wednesday,Cloudy,47,No,No,848,Misal Pav,42
+2026-07-15,Wednesday,Cloudy,49,No,No,848,Poha,41
+2026-07-15,Wednesday,Cloudy,39,No,No,848,Idli,35
+2026-07-15,Wednesday,Cloudy,147,No,No,848,Tea,109
+2026-07-15,Wednesday,Cloudy,75,No,No,848,Coffee,61
+2026-07-15,Wednesday,Cloudy,56,No,No,848,Cold Drink,51
+2026-07-16,Thursday,Rainy,68,No,No,853,Vada Pav,83
+2026-07-16,Thursday,Rainy,63,No,No,853,Samosa,76
+2026-07-16,Thursday,Rainy,50,No,No,853,Sandwich,43
+2026-07-16,Thursday,Rainy,42,No,No,853,Misal Pav,40
+2026-07-16,Thursday,Rainy,41,No,No,853,Poha,40
+2026-07-16,Thursday,Rainy,35,No,No,853,Idli,30
+2026-07-16,Thursday,Rainy,109,No,No,853,Tea,123
+2026-07-16,Thursday,Rainy,61,No,No,853,Coffee,63
+2026-07-16,Thursday,Rainy,51,No,No,853,Cold Drink,27
+2026-07-17,Friday,Rainy,83,No,No,892,Vada Pav,89
+2026-07-17,Friday,Rainy,76,No,No,892,Samosa,83
+2026-07-17,Friday,Rainy,43,No,No,892,Sandwich,43
+2026-07-17,Friday,Rainy,40,No,No,892,Misal Pav,43
+2026-07-17,Friday,Rainy,40,No,No,892,Poha,42
+2026-07-17,Friday,Rainy,30,No,No,892,Idli,31
+2026-07-17,Friday,Rainy,123,No,No,892,Tea,136
+2026-07-17,Friday,Rainy,63,No,No,892,Coffee,68
+2026-07-17,Friday,Rainy,27,No,No,892,Cold Drink,22
+2026-07-18,Saturday,Rainy,89,Yes,No,307,Vada Pav,39
+2026-07-18,Saturday,Rainy,83,Yes,No,307,Samosa,34
+2026-07-18,Saturday,Rainy,43,Yes,No,307,Sandwich,17
+2026-07-18,Saturday,Rainy,43,Yes,No,307,Misal Pav,20
+2026-07-18,Saturday,Rainy,42,Yes,No,307,Poha,17
+2026-07-18,Saturday,Rainy,31,Yes,No,307,Idli,13
+2026-07-18,Saturday,Rainy,136,Yes,No,307,Tea,62
+2026-07-18,Saturday,Rainy,68,Yes,No,307,Coffee,29
+2026-07-18,Saturday,Rainy,22,Yes,No,307,Cold Drink,9
+2026-07-19,Sunday,Rainy,39,Yes,No,203,Vada Pav,17
+2026-07-19,Sunday,Rainy,34,Yes,No,203,Samosa,15
+2026-07-19,Sunday,Rainy,17,Yes,No,203,Sandwich,8
+2026-07-19,Sunday,Rainy,20,Yes,No,203,Misal Pav,9
+2026-07-19,Sunday,Rainy,17,Yes,No,203,Poha,9
+2026-07-19,Sunday,Rainy,13,Yes,No,203,Idli,6
+2026-07-19,Sunday,Rainy,62,Yes,No,203,Tea,28
+2026-07-19,Sunday,Rainy,29,Yes,No,203,Coffee,12
+2026-07-19,Sunday,Rainy,9,Yes,No,203,Cold Drink,5
+2026-07-20,Monday,Rainy,17,No,No,994,Vada Pav,67
+2026-07-20,Monday,Rainy,15,No,No,994,Samosa,64
+2026-07-20,Monday,Rainy,8,No,No,994,Sandwich,33
+2026-07-20,Monday,Rainy,9,No,No,994,Misal Pav,36
+2026-07-20,Monday,Rainy,9,No,No,994,Poha,30
+2026-07-20,Monday,Rainy,6,No,No,994,Idli,21
+2026-07-20,Monday,Rainy,28,No,No,994,Tea,117
+2026-07-20,Monday,Rainy,12,No,No,994,Coffee,49
+2026-07-20,Monday,Rainy,5,No,No,994,Cold Drink,16
+2026-07-21,Tuesday,Cloudy,67,No,No,890,Vada Pav,69
+2026-07-21,Tuesday,Cloudy,64,No,No,890,Samosa,60
+2026-07-21,Tuesday,Cloudy,33,No,No,890,Sandwich,40
+2026-07-21,Tuesday,Cloudy,36,No,No,890,Misal Pav,35
+2026-07-21,Tuesday,Cloudy,30,No,No,890,Poha,35
+2026-07-21,Tuesday,Cloudy,21,No,No,890,Idli,29
+2026-07-21,Tuesday,Cloudy,117,No,No,890,Tea,106
+2026-07-21,Tuesday,Cloudy,49,No,No,890,Coffee,53
+2026-07-21,Tuesday,Cloudy,16,No,No,890,Cold Drink,40
+2026-07-22,Wednesday,Rainy,69,No,No,770,Vada Pav,77
+2026-07-22,Wednesday,Rainy,60,No,No,770,Samosa,72
+2026-07-22,Wednesday,Rainy,40,No,No,770,Sandwich,37
+2026-07-22,Wednesday,Rainy,35,No,No,770,Misal Pav,36
+2026-07-22,Wednesday,Rainy,35,No,No,770,Poha,33
+2026-07-22,Wednesday,Rainy,29,No,No,770,Idli,24
+2026-07-22,Wednesday,Rainy,106,No,No,770,Tea,116
+2026-07-22,Wednesday,Rainy,53,No,No,770,Coffee,52
+2026-07-22,Wednesday,Rainy,40,No,No,770,Cold Drink,22
+2026-07-23,Thursday,Cold,77,No,No,841,Vada Pav,71
+2026-07-23,Thursday,Cold,72,No,No,841,Samosa,73
+2026-07-23,Thursday,Cold,37,No,No,841,Sandwich,40
+2026-07-23,Thursday,Cold,36,No,No,841,Misal Pav,41
+2026-07-23,Thursday,Cold,33,No,No,841,Poha,35
+2026-07-23,Thursday,Cold,24,No,No,841,Idli,26
+2026-07-23,Thursday,Cold,116,No,No,841,Tea,134
+2026-07-23,Thursday,Cold,52,No,No,841,Coffee,63
+2026-07-23,Thursday,Cold,22,No,No,841,Cold Drink,20
+2026-07-24,Friday,Rainy,71,No,No,829,Vada Pav,82
+2026-07-24,Friday,Rainy,73,No,No,829,Samosa,73
+2026-07-24,Friday,Rainy,40,No,No,829,Sandwich,36
+2026-07-24,Friday,Rainy,41,No,No,829,Misal Pav,42
+2026-07-24,Friday,Rainy,35,No,No,829,Poha,34
+2026-07-24,Friday,Rainy,26,No,No,829,Idli,24
+2026-07-24,Friday,Rainy,134,No,No,829,Tea,139
+2026-07-24,Friday,Rainy,63,No,No,829,Coffee,60
+2026-07-24,Friday,Rainy,20,No,No,829,Cold Drink,20
+2026-07-25,Saturday,Rainy,82,Yes,No,275,Vada Pav,35
+2026-07-25,Saturday,Rainy,73,Yes,No,275,Samosa,32
+2026-07-25,Saturday,Rainy,36,Yes,No,275,Sandwich,16
+2026-07-25,Saturday,Rainy,42,Yes,No,275,Misal Pav,18
+2026-07-25,Saturday,Rainy,34,Yes,No,275,Poha,16
+2026-07-25,Saturday,Rainy,24,Yes,No,275,Idli,10
+2026-07-25,Saturday,Rainy,139,Yes,No,275,Tea,60
+2026-07-25,Saturday,Rainy,60,Yes,No,275,Coffee,25
+2026-07-25,Saturday,Rainy,20,Yes,No,275,Cold Drink,8
+2026-07-26,Sunday,Cold,35,Yes,No,145,Vada Pav,16
+2026-07-26,Sunday,Cold,32,Yes,No,145,Samosa,13
+2026-07-26,Sunday,Cold,16,Yes,No,145,Sandwich,7
+2026-07-26,Sunday,Cold,18,Yes,No,145,Misal Pav,8
+2026-07-26,Sunday,Cold,16,Yes,No,145,Poha,7
+2026-07-26,Sunday,Cold,10,Yes,No,145,Idli,5
+2026-07-26,Sunday,Cold,60,Yes,No,145,Tea,25
+2026-07-26,Sunday,Cold,25,Yes,No,145,Coffee,11
+2026-07-26,Sunday,Cold,8,Yes,No,145,Cold Drink,5
+2026-07-27,Monday,Cloudy,16,No,No,980,Vada Pav,53
+2026-07-27,Monday,Cloudy,13,No,No,980,Samosa,51
+2026-07-27,Monday,Cloudy,7,No,No,980,Sandwich,32
+2026-07-27,Monday,Cloudy,8,No,No,980,Misal Pav,28
+2026-07-27,Monday,Cloudy,7,No,No,980,Poha,30
+2026-07-27,Monday,Cloudy,5,No,No,980,Idli,26
+2026-07-27,Monday,Cloudy,25,No,No,980,Tea,85
+2026-07-27,Monday,Cloudy,11,No,No,980,Coffee,43
+2026-07-27,Monday,Cloudy,5,No,No,980,Cold Drink,35
+2026-07-28,Tuesday,Sunny,53,No,No,768,Vada Pav,58
+2026-07-28,Tuesday,Sunny,51,No,No,768,Samosa,47
+2026-07-28,Tuesday,Sunny,32,No,No,768,Sandwich,33
+2026-07-28,Tuesday,Sunny,28,No,No,768,Misal Pav,28
+2026-07-28,Tuesday,Sunny,30,No,No,768,Poha,33
+2026-07-28,Tuesday,Sunny,26,No,No,768,Idli,27
+2026-07-28,Tuesday,Sunny,85,No,No,768,Tea,83
+2026-07-28,Tuesday,Sunny,43,No,No,768,Coffee,41
+2026-07-28,Tuesday,Sunny,35,No,No,768,Cold Drink,39
+2026-07-29,Wednesday,Rainy,58,No,No,826,Vada Pav,73
+2026-07-29,Wednesday,Rainy,47,No,No,826,Samosa,66
+2026-07-29,Wednesday,Rainy,33,No,No,826,Sandwich,38
+2026-07-29,Wednesday,Rainy,28,No,No,826,Misal Pav,38
+2026-07-29,Wednesday,Rainy,33,No,No,826,Poha,37
+2026-07-29,Wednesday,Rainy,27,No,No,826,Idli,24
+2026-07-29,Wednesday,Rainy,83,No,No,826,Tea,114
+2026-07-29,Wednesday,Rainy,41,No,No,826,Coffee,55
+2026-07-29,Wednesday,Rainy,39,No,No,826,Cold Drink,26
+2026-07-30,Thursday,Rainy,73,No,Yes,1087,Vada Pav,122
+2026-07-30,Thursday,Rainy,66,No,Yes,1087,Samosa,114
+2026-07-30,Thursday,Rainy,38,No,Yes,1087,Sandwich,53
+2026-07-30,Thursday,Rainy,38,No,Yes,1087,Misal Pav,62
+2026-07-30,Thursday,Rainy,37,No,Yes,1087,Poha,56
+2026-07-30,Thursday,Rainy,24,No,Yes,1087,Idli,37
+2026-07-30,Thursday,Rainy,114,No,Yes,1087,Tea,217
+2026-07-30,Thursday,Rainy,55,No,Yes,1087,Coffee,88
+2026-07-30,Thursday,Rainy,26,No,Yes,1087,Cold Drink,30
+2026-07-31,Friday,Rainy,122,No,No,882,Vada Pav,102
+2026-07-31,Friday,Rainy,114,No,No,882,Samosa,97
+2026-07-31,Friday,Rainy,53,No,No,882,Sandwich,43
+2026-07-31,Friday,Rainy,62,No,No,882,Misal Pav,52
+2026-07-31,Friday,Rainy,56,No,No,882,Poha,44
+2026-07-31,Friday,Rainy,37,No,No,882,Idli,33
+2026-07-31,Friday,Rainy,217,No,No,882,Tea,181
+2026-07-31,Friday,Rainy,88,No,No,882,Coffee,73
+2026-07-31,Friday,Rainy,30,No,No,882,Cold Drink,22
+2026-08-01,Saturday,Cloudy,102,Yes,No,317,Vada Pav,41
+2026-08-01,Saturday,Cloudy,97,Yes,No,317,Samosa,39
+2026-08-01,Saturday,Cloudy,43,Yes,No,317,Sandwich,20
+2026-08-01,Saturday,Cloudy,52,Yes,No,317,Misal Pav,22
+2026-08-01,Saturday,Cloudy,44,Yes,No,317,Poha,19
+2026-08-01,Saturday,Cloudy,33,Yes,No,317,Idli,14
+2026-08-01,Saturday,Cloudy,181,Yes,No,317,Tea,68
+2026-08-01,Saturday,Cloudy,73,Yes,No,317,Coffee,29
+2026-08-01,Saturday,Cloudy,22,Yes,No,317,Cold Drink,12
+2026-08-02,Sunday,Rainy,41,Yes,No,172,Vada Pav,18
+2026-08-02,Sunday,Rainy,39,Yes,No,172,Samosa,16
+2026-08-02,Sunday,Rainy,20,Yes,No,172,Sandwich,8
+2026-08-02,Sunday,Rainy,22,Yes,No,172,Misal Pav,10
+2026-08-02,Sunday,Rainy,19,Yes,No,172,Poha,8
+2026-08-02,Sunday,Rainy,14,Yes,No,172,Idli,6
+2026-08-02,Sunday,Rainy,68,Yes,No,172,Tea,31
+2026-08-02,Sunday,Rainy,29,Yes,No,172,Coffee,14
+2026-08-02,Sunday,Rainy,12,Yes,No,172,Cold Drink,5
+2026-08-03,Monday,Rainy,18,No,Yes,1065,Vada Pav,107
+2026-08-03,Monday,Rainy,16,No,Yes,1065,Samosa,96
+2026-08-03,Monday,Rainy,8,No,Yes,1065,Sandwich,45
+2026-08-03,Monday,Rainy,10,No,Yes,1065,Misal Pav,48
+2026-08-03,Monday,Rainy,8,No,Yes,1065,Poha,48
+2026-08-03,Monday,Rainy,6,No,Yes,1065,Idli,31
+2026-08-03,Monday,Rainy,31,No,Yes,1065,Tea,174
+2026-08-03,Monday,Rainy,14,No,Yes,1065,Coffee,73
+2026-08-03,Monday,Rainy,5,No,Yes,1065,Cold Drink,20
+2026-08-04,Tuesday,Cloudy,107,No,No,841,Vada Pav,75
+2026-08-04,Tuesday,Cloudy,96,No,No,841,Samosa,67
+2026-08-04,Tuesday,Cloudy,45,No,No,841,Sandwich,44
+2026-08-04,Tuesday,Cloudy,48,No,No,841,Misal Pav,41
+2026-08-04,Tuesday,Cloudy,48,No,No,841,Poha,39
+2026-08-04,Tuesday,Cloudy,31,No,No,841,Idli,29
+2026-08-04,Tuesday,Cloudy,174,No,No,841,Tea,131
+2026-08-04,Tuesday,Cloudy,73,No,No,841,Coffee,61
+2026-08-04,Tuesday,Cloudy,20,No,No,841,Cold Drink,36
+2026-08-05,Wednesday,Sunny,75,No,No,885,Vada Pav,66
+2026-08-05,Wednesday,Sunny,67,No,No,885,Samosa,62
+2026-08-05,Wednesday,Sunny,44,No,No,885,Sandwich,46
+2026-08-05,Wednesday,Sunny,41,No,No,885,Misal Pav,37
+2026-08-05,Wednesday,Sunny,39,No,No,885,Poha,36
+2026-08-05,Wednesday,Sunny,29,No,No,885,Idli,30
+2026-08-05,Wednesday,Sunny,131,No,No,885,Tea,108
+2026-08-05,Wednesday,Sunny,61,No,No,885,Coffee,54
+2026-08-05,Wednesday,Sunny,36,No,No,885,Cold Drink,43
+2026-08-06,Thursday,Cloudy,66,No,No,878,Vada Pav,64
+2026-08-06,Thursday,Cloudy,62,No,No,878,Samosa,59
+2026-08-06,Thursday,Cloudy,46,No,No,878,Sandwich,47
+2026-08-06,Thursday,Cloudy,37,No,No,878,Misal Pav,36
+2026-08-06,Thursday,Cloudy,36,No,No,878,Poha,37
+2026-08-06,Thursday,Cloudy,30,No,No,878,Idli,31
+2026-08-06,Thursday,Cloudy,108,No,No,878,Tea,112
+2026-08-06,Thursday,Cloudy,54,No,No,878,Coffee,52
+2026-08-06,Thursday,Cloudy,43,No,No,878,Cold Drink,50
+2026-08-07,Friday,Cloudy,64,No,No,1046,Vada Pav,69
+2026-08-07,Friday,Cloudy,59,No,No,1046,Samosa,67
+2026-08-07,Friday,Cloudy,47,No,No,1046,Sandwich,51
+2026-08-07,Friday,Cloudy,36,No,No,1046,Misal Pav,43
+2026-08-07,Friday,Cloudy,37,No,No,1046,Poha,46
+2026-08-07,Friday,Cloudy,31,No,No,1046,Idli,35
+2026-08-07,Friday,Cloudy,112,No,No,1046,Tea,120
+2026-08-07,Friday,Cloudy,52,No,No,1046,Coffee,58
+2026-08-07,Friday,Cloudy,50,No,No,1046,Cold Drink,57
+2026-08-08,Saturday,Rainy,69,Yes,No,159,Vada Pav,26
+2026-08-08,Saturday,Rainy,67,Yes,No,159,Samosa,28
+2026-08-08,Saturday,Rainy,51,Yes,No,159,Sandwich,19
+2026-08-08,Saturday,Rainy,43,Yes,No,159,Misal Pav,17
+2026-08-08,Saturday,Rainy,46,Yes,No,159,Poha,17
+2026-08-08,Saturday,Rainy,35,Yes,No,159,Idli,12
+2026-08-08,Saturday,Rainy,120,Yes,No,159,Tea,47
+2026-08-08,Saturday,Rainy,58,Yes,No,159,Coffee,24
+2026-08-08,Saturday,Rainy,57,Yes,No,159,Cold Drink,21
+2026-08-09,Sunday,Rainy,26,No,No,474,Vada Pav,42
+2026-08-09,Sunday,Rainy,28,No,No,474,Samosa,35
+2026-08-09,Sunday,Rainy,19,No,No,474,Sandwich,19
+2026-08-09,Sunday,Rainy,17,No,No,474,Misal Pav,22
+2026-08-09,Sunday,Rainy,17,No,No,474,Poha,21
+2026-08-09,Sunday,Rainy,12,No,No,474,Idli,15
+2026-08-09,Sunday,Rainy,47,No,No,474,Tea,71
+2026-08-09,Sunday,Rainy,24,No,No,474,Coffee,31
+2026-08-09,Sunday,Rainy,21,No,No,474,Cold Drink,13
+2026-08-10,Monday,Rainy,42,No,No,977,Vada Pav,75
+2026-08-10,Monday,Rainy,35,No,No,977,Samosa,65
+2026-08-10,Monday,Rainy,19,No,No,977,Sandwich,34
+2026-08-10,Monday,Rainy,22,No,No,977,Misal Pav,37
+2026-08-10,Monday,Rainy,21,No,No,977,Poha,35
+2026-08-10,Monday,Rainy,15,No,No,977,Idli,25
+2026-08-10,Monday,Rainy,71,No,No,977,Tea,127
+2026-08-10,Monday,Rainy,31,No,No,977,Coffee,56
+2026-08-10,Monday,Rainy,13,No,No,977,Cold Drink,18
+2026-08-11,Tuesday,Rainy,75,No,No,797,Vada Pav,79
+2026-08-11,Tuesday,Rainy,65,No,No,797,Samosa,67
+2026-08-11,Tuesday,Rainy,34,No,No,797,Sandwich,38
+2026-08-11,Tuesday,Rainy,37,No,No,797,Misal Pav,37
+2026-08-11,Tuesday,Rainy,35,No,No,797,Poha,36
+2026-08-11,Tuesday,Rainy,25,No,No,797,Idli,24
+2026-08-11,Tuesday,Rainy,127,No,No,797,Tea,127
+2026-08-11,Tuesday,Rainy,56,No,No,797,Coffee,53
+2026-08-11,Tuesday,Rainy,18,No,No,797,Cold Drink,18
+2026-08-12,Wednesday,Cloudy,79,No,No,813,Vada Pav,73
+2026-08-12,Wednesday,Cloudy,67,No,No,813,Samosa,64
+2026-08-12,Wednesday,Cloudy,38,No,No,813,Sandwich,38
+2026-08-12,Wednesday,Cloudy,37,No,No,813,Misal Pav,37
+2026-08-12,Wednesday,Cloudy,36,No,No,813,Poha,38
+2026-08-12,Wednesday,Cloudy,24,No,No,813,Idli,27
+2026-08-12,Wednesday,Cloudy,127,No,No,813,Tea,103
+2026-08-12,Wednesday,Cloudy,53,No,No,813,Coffee,54
+2026-08-12,Wednesday,Cloudy,18,No,No,813,Cold Drink,37
+2026-08-13,Thursday,Cloudy,73,No,No,775,Vada Pav,70
+2026-08-13,Thursday,Cloudy,64,No,No,775,Samosa,55
+2026-08-13,Thursday,Cloudy,38,No,No,775,Sandwich,41
+2026-08-13,Thursday,Cloudy,37,No,No,775,Misal Pav,34
+2026-08-13,Thursday,Cloudy,38,No,No,775,Poha,35
+2026-08-13,Thursday,Cloudy,27,No,No,775,Idli,28
+2026-08-13,Thursday,Cloudy,103,No,No,775,Tea,98
+2026-08-13,Thursday,Cloudy,54,No,No,775,Coffee,51
+2026-08-13,Thursday,Cloudy,37,No,No,775,Cold Drink,37
+2026-08-14,Friday,Hot,70,No,No,873,Vada Pav,65
+2026-08-14,Friday,Hot,55,No,No,873,Samosa,48
+2026-08-14,Friday,Hot,41,No,No,873,Sandwich,46
+2026-08-14,Friday,Hot,34,No,No,873,Misal Pav,28
+2026-08-14,Friday,Hot,35,No,No,873,Poha,35
+2026-08-14,Friday,Hot,28,No,No,873,Idli,29
+2026-08-14,Friday,Hot,98,No,No,873,Tea,86
+2026-08-14,Friday,Hot,51,No,No,873,Coffee,45
+2026-08-14,Friday,Hot,37,No,No,873,Cold Drink,65
+2026-08-15,Saturday,Sunny,65,Yes,No,280,Vada Pav,28
+2026-08-15,Saturday,Sunny,48,Yes,No,280,Samosa,20
+2026-08-15,Saturday,Sunny,46,Yes,No,280,Sandwich,19
+2026-08-15,Saturday,Sunny,28,Yes,No,280,Misal Pav,12
+2026-08-15,Saturday,Sunny,35,Yes,No,280,Poha,16
+2026-08-15,Saturday,Sunny,29,Yes,No,280,Idli,12
+2026-08-15,Saturday,Sunny,86,Yes,No,280,Tea,36
+2026-08-15,Saturday,Sunny,45,Yes,No,280,Coffee,20
+2026-08-15,Saturday,Sunny,65,Yes,No,280,Cold Drink,25
+2026-08-16,Sunday,Rainy,28,Yes,No,213,Vada Pav,15
+2026-08-16,Sunday,Rainy,20,Yes,No,213,Samosa,12
+2026-08-16,Sunday,Rainy,19,Yes,No,213,Sandwich,9
+2026-08-16,Sunday,Rainy,12,Yes,No,213,Misal Pav,6
+2026-08-16,Sunday,Rainy,16,Yes,No,213,Poha,8
+2026-08-16,Sunday,Rainy,12,Yes,No,213,Idli,6
+2026-08-16,Sunday,Rainy,36,Yes,No,213,Tea,22
+2026-08-16,Sunday,Rainy,20,Yes,No,213,Coffee,11
+2026-08-16,Sunday,Rainy,25,Yes,No,213,Cold Drink,10
+2026-08-17,Monday,Sunny,15,No,No,1047,Vada Pav,53
+2026-08-17,Monday,Sunny,12,No,No,1047,Samosa,50
+2026-08-17,Monday,Sunny,9,No,No,1047,Sandwich,37
+2026-08-17,Monday,Sunny,6,No,No,1047,Misal Pav,28
+2026-08-17,Monday,Sunny,8,No,No,1047,Poha,34
+2026-08-17,Monday,Sunny,6,No,No,1047,Idli,26
+2026-08-17,Monday,Sunny,22,No,No,1047,Tea,79
+2026-08-17,Monday,Sunny,11,No,No,1047,Coffee,41
+2026-08-17,Monday,Sunny,10,No,No,1047,Cold Drink,37
+2026-08-18,Tuesday,Rainy,53,No,No,767,Vada Pav,69
+2026-08-18,Tuesday,Rainy,50,No,No,767,Samosa,66
+2026-08-18,Tuesday,Rainy,37,No,No,767,Sandwich,38
+2026-08-18,Tuesday,Rainy,28,No,No,767,Misal Pav,33
+2026-08-18,Tuesday,Rainy,34,No,No,767,Poha,33
+2026-08-18,Tuesday,Rainy,26,No,No,767,Idli,23
+2026-08-18,Tuesday,Rainy,79,No,No,767,Tea,119
+2026-08-18,Tuesday,Rainy,41,No,No,767,Coffee,51
+2026-08-18,Tuesday,Rainy,37,No,No,767,Cold Drink,25
+2026-08-19,Wednesday,Rainy,69,No,Yes,1104,Vada Pav,123
+2026-08-19,Wednesday,Rainy,66,No,Yes,1104,Samosa,104
+2026-08-19,Wednesday,Rainy,38,No,Yes,1104,Sandwich,53
+2026-08-19,Wednesday,Rainy,33,No,Yes,1104,Misal Pav,56
+2026-08-19,Wednesday,Rainy,33,No,Yes,1104,Poha,60
+2026-08-19,Wednesday,Rainy,23,No,Yes,1104,Idli,36
+2026-08-19,Wednesday,Rainy,119,No,Yes,1104,Tea,196
+2026-08-19,Wednesday,Rainy,51,No,Yes,1104,Coffee,89
+2026-08-19,Wednesday,Rainy,25,No,Yes,1104,Cold Drink,28
+2026-08-20,Thursday,Rainy,123,No,No,838,Vada Pav,96
+2026-08-20,Thursday,Rainy,104,No,No,838,Samosa,89
+2026-08-20,Thursday,Rainy,53,No,No,838,Sandwich,41
+2026-08-20,Thursday,Rainy,56,No,No,838,Misal Pav,47
+2026-08-20,Thursday,Rainy,60,No,No,838,Poha,43
+2026-08-20,Thursday,Rainy,36,No,No,838,Idli,30
+2026-08-20,Thursday,Rainy,196,No,No,838,Tea,158
+2026-08-20,Thursday,Rainy,89,No,No,838,Coffee,76
+2026-08-20,Thursday,Rainy,28,No,No,838,Cold Drink,20
+2026-08-21,Friday,Cold,96,No,No,1018,Vada Pav,88
+2026-08-21,Friday,Cold,89,No,No,1018,Samosa,89
+2026-08-21,Friday,Cold,41,No,No,1018,Sandwich,45
+2026-08-21,Friday,Cold,47,No,No,1018,Misal Pav,52
+2026-08-21,Friday,Cold,43,No,No,1018,Poha,48
+2026-08-21,Friday,Cold,30,No,No,1018,Idli,32
+2026-08-21,Friday,Cold,158,No,No,1018,Tea,168
+2026-08-21,Friday,Cold,76,No,No,1018,Coffee,87
+2026-08-21,Friday,Cold,20,No,No,1018,Cold Drink,24
+2026-08-22,Saturday,Sunny,88,Yes,No,174,Vada Pav,34
+2026-08-22,Saturday,Sunny,89,Yes,No,174,Samosa,34
+2026-08-22,Saturday,Sunny,45,Yes,No,174,Sandwich,16
+2026-08-22,Saturday,Sunny,52,Yes,No,174,Misal Pav,21
+2026-08-22,Saturday,Sunny,48,Yes,No,174,Poha,18
+2026-08-22,Saturday,Sunny,32,Yes,No,174,Idli,12
+2026-08-22,Saturday,Sunny,168,Yes,No,174,Tea,64
+2026-08-22,Saturday,Sunny,87,Yes,No,174,Coffee,30
+2026-08-22,Saturday,Sunny,24,Yes,No,174,Cold Drink,11
+2026-08-23,Sunday,Cloudy,34,Yes,No,342,Vada Pav,17
+2026-08-23,Sunday,Cloudy,34,Yes,No,342,Samosa,18
+2026-08-23,Sunday,Cloudy,16,Yes,No,342,Sandwich,10
+2026-08-23,Sunday,Cloudy,21,Yes,No,342,Misal Pav,11
+2026-08-23,Sunday,Cloudy,18,Yes,No,342,Poha,9
+2026-08-23,Sunday,Cloudy,12,Yes,No,342,Idli,8
+2026-08-23,Sunday,Cloudy,64,Yes,No,342,Tea,34
+2026-08-23,Sunday,Cloudy,30,Yes,No,342,Coffee,15
+2026-08-23,Sunday,Cloudy,11,Yes,No,342,Cold Drink,8
+2026-08-24,Monday,Sunny,17,No,No,891,Vada Pav,51
+2026-08-24,Monday,Sunny,18,No,No,891,Samosa,42
+2026-08-24,Monday,Sunny,10,No,No,891,Sandwich,30
+2026-08-24,Monday,Sunny,11,No,No,891,Misal Pav,25
+2026-08-24,Monday,Sunny,9,No,No,891,Poha,26
+2026-08-24,Monday,Sunny,8,No,No,891,Idli,24
+2026-08-24,Monday,Sunny,34,No,No,891,Tea,77
+2026-08-24,Monday,Sunny,15,No,No,891,Coffee,39
+2026-08-24,Monday,Sunny,8,No,No,891,Cold Drink,33
+2026-08-25,Tuesday,Sunny,51,No,No,828,Vada Pav,55
+2026-08-25,Tuesday,Sunny,42,No,No,828,Samosa,51
+2026-08-25,Tuesday,Sunny,30,No,No,828,Sandwich,37
+2026-08-25,Tuesday,Sunny,25,No,No,828,Misal Pav,32
+2026-08-25,Tuesday,Sunny,26,No,No,828,Poha,33
+2026-08-25,Tuesday,Sunny,24,No,No,828,Idli,26
+2026-08-25,Tuesday,Sunny,77,No,No,828,Tea,90
+2026-08-25,Tuesday,Sunny,39,No,No,828,Coffee,41
+2026-08-25,Tuesday,Sunny,33,No,No,828,Cold Drink,43
+2026-08-26,Wednesday,Sunny,55,No,No,882,Vada Pav,65
+2026-08-26,Wednesday,Sunny,51,No,No,882,Samosa,51
+2026-08-26,Wednesday,Sunny,37,No,No,882,Sandwich,38
+2026-08-26,Wednesday,Sunny,32,No,No,882,Misal Pav,34
+2026-08-26,Wednesday,Sunny,33,No,No,882,Poha,34
+2026-08-26,Wednesday,Sunny,26,No,No,882,Idli,28
+2026-08-26,Wednesday,Sunny,90,No,No,882,Tea,98
+2026-08-26,Wednesday,Sunny,41,No,No,882,Coffee,47
+2026-08-26,Wednesday,Sunny,43,No,No,882,Cold Drink,44
+2026-08-27,Thursday,Rainy,65,No,No,854,Vada Pav,77
+2026-08-27,Thursday,Rainy,51,No,No,854,Samosa,71
+2026-08-27,Thursday,Rainy,38,No,No,854,Sandwich,36
+2026-08-27,Thursday,Rainy,34,No,No,854,Misal Pav,41
+2026-08-27,Thursday,Rainy,34,No,No,854,Poha,39
+2026-08-27,Thursday,Rainy,28,No,No,854,Idli,27
+2026-08-27,Thursday,Rainy,98,No,No,854,Tea,135
+2026-08-27,Thursday,Rainy,47,No,No,854,Coffee,56
+2026-08-27,Thursday,Rainy,44,No,No,854,Cold Drink,29
+2026-08-28,Friday,Cloudy,77,No,No,986,Vada Pav,71
+2026-08-28,Friday,Cloudy,71,No,No,986,Samosa,68
+2026-08-28,Friday,Cloudy,36,No,No,986,Sandwich,46
+2026-08-28,Friday,Cloudy,41,No,No,986,Misal Pav,40
+2026-08-28,Friday,Cloudy,39,No,No,986,Poha,40
+2026-08-28,Friday,Cloudy,27,No,No,986,Idli,35
+2026-08-28,Friday,Cloudy,135,No,No,986,Tea,114
+2026-08-28,Friday,Cloudy,56,No,No,986,Coffee,61
+2026-08-28,Friday,Cloudy,29,No,No,986,Cold Drink,42
+2026-08-29,Saturday,Rainy,71,Yes,No,327,Vada Pav,30
+2026-08-29,Saturday,Rainy,68,Yes,No,327,Samosa,28
+2026-08-29,Saturday,Rainy,46,Yes,No,327,Sandwich,21
+2026-08-29,Saturday,Rainy,40,Yes,No,327,Misal Pav,18
+2026-08-29,Saturday,Rainy,40,Yes,No,327,Poha,18
+2026-08-29,Saturday,Rainy,35,Yes,No,327,Idli,14
+2026-08-29,Saturday,Rainy,114,Yes,No,327,Tea,56
+2026-08-29,Saturday,Rainy,61,Yes,No,327,Coffee,29
+2026-08-29,Saturday,Rainy,42,Yes,No,327,Cold Drink,16
+2026-08-30,Sunday,Cloudy,30,No,Yes,1109,Vada Pav,84
+2026-08-30,Sunday,Cloudy,28,No,Yes,1109,Samosa,77
+2026-08-30,Sunday,Cloudy,21,No,Yes,1109,Sandwich,53
+2026-08-30,Sunday,Cloudy,18,No,Yes,1109,Misal Pav,47
+2026-08-30,Sunday,Cloudy,18,No,Yes,1109,Poha,48
+2026-08-30,Sunday,Cloudy,14,No,Yes,1109,Idli,38
+2026-08-30,Sunday,Cloudy,56,No,Yes,1109,Tea,142
+2026-08-30,Sunday,Cloudy,29,No,Yes,1109,Coffee,66
+2026-08-30,Sunday,Cloudy,16,No,Yes,1109,Cold Drink,61
+2026-08-31,Monday,Rainy,84,No,No,1049,Vada Pav,101
+2026-08-31,Monday,Rainy,77,No,No,1049,Samosa,91
+2026-08-31,Monday,Rainy,53,No,No,1049,Sandwich,51
+2026-08-31,Monday,Rainy,47,No,No,1049,Misal Pav,51
+2026-08-31,Monday,Rainy,48,No,No,1049,Poha,49
+2026-08-31,Monday,Rainy,38,No,No,1049,Idli,35
+2026-08-31,Monday,Rainy,142,No,No,1049,Tea,170
+2026-08-31,Monday,Rainy,66,No,No,1049,Coffee,67
+2026-08-31,Monday,Rainy,61,No,No,1049,Cold Drink,34
+2026-09-01,Tuesday,Sunny,101,No,No,746,Vada Pav,75
+2026-09-01,Tuesday,Sunny,91,No,No,746,Samosa,64
+2026-09-01,Tuesday,Sunny,51,No,No,746,Sandwich,40
+2026-09-01,Tuesday,Sunny,51,No,No,746,Misal Pav,35
+2026-09-01,Tuesday,Sunny,49,No,No,746,Poha,39
+2026-09-01,Tuesday,Sunny,35,No,No,746,Idli,27
+2026-09-01,Tuesday,Sunny,170,No,No,746,Tea,119
+2026-09-01,Tuesday,Sunny,67,No,No,746,Coffee,48
+2026-09-01,Tuesday,Sunny,34,No,No,746,Cold Drink,37
+2026-09-02,Wednesday,Rainy,75,No,No,898,Vada Pav,90
+2026-09-02,Wednesday,Rainy,64,No,No,898,Samosa,77
+2026-09-02,Wednesday,Rainy,40,No,No,898,Sandwich,43
+2026-09-02,Wednesday,Rainy,35,No,No,898,Misal Pav,39
+2026-09-02,Wednesday,Rainy,39,No,No,898,Poha,42
+2026-09-02,Wednesday,Rainy,27,No,No,898,Idli,26
+2026-09-02,Wednesday,Rainy,119,No,No,898,Tea,131
+2026-09-02,Wednesday,Rainy,48,No,No,898,Coffee,59
+2026-09-02,Wednesday,Rainy,37,No,No,898,Cold Drink,25
+2026-09-03,Thursday,Sunny,90,No,No,831,Vada Pav,67
+2026-09-03,Thursday,Sunny,77,No,No,831,Samosa,61
+2026-09-03,Thursday,Sunny,43,No,No,831,Sandwich,39
+2026-09-03,Thursday,Sunny,39,No,No,831,Misal Pav,36
+2026-09-03,Thursday,Sunny,42,No,No,831,Poha,38
+2026-09-03,Thursday,Sunny,26,No,No,831,Idli,29
+2026-09-03,Thursday,Sunny,131,No,No,831,Tea,99
+2026-09-03,Thursday,Sunny,59,No,No,831,Coffee,50
+2026-09-03,Thursday,Sunny,25,No,No,831,Cold Drink,37
+2026-09-04,Friday,Sunny,67,Yes,No,174,Vada Pav,27
+2026-09-04,Friday,Sunny,61,Yes,No,174,Samosa,25
+2026-09-04,Friday,Sunny,39,Yes,No,174,Sandwich,15
+2026-09-04,Friday,Sunny,36,Yes,No,174,Misal Pav,13
+2026-09-04,Friday,Sunny,38,Yes,No,174,Poha,15
+2026-09-04,Friday,Sunny,29,Yes,No,174,Idli,11
+2026-09-04,Friday,Sunny,99,Yes,No,174,Tea,37
+2026-09-04,Friday,Sunny,50,Yes,No,174,Coffee,20
+2026-09-04,Friday,Sunny,37,Yes,No,174,Cold Drink,14
+2026-09-05,Saturday,Rainy,27,Yes,No,210,Vada Pav,13
+2026-09-05,Saturday,Rainy,25,Yes,No,210,Samosa,14
+2026-09-05,Saturday,Rainy,15,Yes,No,210,Sandwich,7
+2026-09-05,Saturday,Rainy,13,Yes,No,210,Misal Pav,6
+2026-09-05,Saturday,Rainy,15,Yes,No,210,Poha,8
+2026-09-05,Saturday,Rainy,11,Yes,No,210,Idli,6
+2026-09-05,Saturday,Rainy,37,Yes,No,210,Tea,21
+2026-09-05,Saturday,Rainy,20,Yes,No,210,Coffee,11
+2026-09-05,Saturday,Rainy,14,Yes,No,210,Cold Drink,6
+2026-09-06,Sunday,Sunny,13,Yes,No,125,Vada Pav,7
+2026-09-06,Sunday,Sunny,14,Yes,No,125,Samosa,6
+2026-09-06,Sunday,Sunny,7,Yes,No,125,Sandwich,5
+2026-09-06,Sunday,Sunny,6,Yes,No,125,Misal Pav,5
+2026-09-06,Sunday,Sunny,8,Yes,No,125,Poha,5
+2026-09-06,Sunday,Sunny,6,Yes,No,125,Idli,5
+2026-09-06,Sunday,Sunny,21,Yes,No,125,Tea,10
+2026-09-06,Sunday,Sunny,11,Yes,No,125,Coffee,5
+2026-09-06,Sunday,Sunny,6,Yes,No,125,Cold Drink,5
+2026-09-07,Monday,Hot,7,No,Yes,1123,Vada Pav,65
+2026-09-07,Monday,Hot,6,No,Yes,1123,Samosa,59
+2026-09-07,Monday,Hot,5,No,Yes,1123,Sandwich,50
+2026-09-07,Monday,Hot,5,No,Yes,1123,Misal Pav,33
+2026-09-07,Monday,Hot,5,No,Yes,1123,Poha,45
+2026-09-07,Monday,Hot,5,No,Yes,1123,Idli,36
+2026-09-07,Monday,Hot,10,No,Yes,1123,Tea,90
+2026-09-07,Monday,Hot,5,No,Yes,1123,Coffee,45
+2026-09-07,Monday,Hot,5,No,Yes,1123,Cold Drink,95
+2026-09-08,Tuesday,Sunny,65,No,No,765,Vada Pav,56
+2026-09-08,Tuesday,Sunny,59,No,No,765,Samosa,54
+2026-09-08,Tuesday,Sunny,50,No,No,765,Sandwich,43
+2026-09-08,Tuesday,Sunny,33,No,No,765,Misal Pav,32
+2026-09-08,Tuesday,Sunny,45,No,No,765,Poha,35
+2026-09-08,Tuesday,Sunny,36,No,No,765,Idli,31
+2026-09-08,Tuesday,Sunny,90,No,No,765,Tea,87
+2026-09-08,Tuesday,Sunny,45,No,No,765,Coffee,46
+2026-09-08,Tuesday,Sunny,95,No,No,765,Cold Drink,62
